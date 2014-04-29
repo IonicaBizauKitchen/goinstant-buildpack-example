@@ -1,0 +1,8 @@
+<p>Welcome!</p>
+<script type="text/javascript">
+  var connect = goinstant.connect('<%= GOINSTANT_CONNECT_URL %>');
+  connect.then(function(res) {
+    var room = res.rooms[0];
+    console.log('Connected to room: ', room);
+  });
+</script>
