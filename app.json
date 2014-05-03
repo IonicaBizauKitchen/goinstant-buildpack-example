@@ -1,0 +1,12 @@
+{
+  "name": "GoInstant Demo",
+  "description": "GoInstant stores and syncs data in realtime, and provides a full stack of resources you can use to deliver awesome experiences for your users.",
+  "keywords": ["realtime", "mobile", "pub/sub"],
+  "repository": "https://github.com/zeke/goinstant-buildpack-example",
+  "website": "https://goinstant.com",
+  "logo": "https://i.cloudup.com/m-JjkyQzXv.png",
+  "addons": ["goinstant"],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/jeffandersen/goinstant-buildpack"
+  }
+}
