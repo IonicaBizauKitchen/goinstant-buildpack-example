@@ -1,6 +1,6 @@
 {
   "name": "GoInstant Demo",
-  "description": "GoInstant stores and syncs data in realtime, and provides a full stack of resources you can use to deliver awesome experiences for your users.",
+  "description": "Everything you need to build scalable mobile & web apps easily with less code.",
   "keywords": ["realtime", "mobile", "pub/sub"],
   "repository": "https://github.com/zeke/goinstant-buildpack-example",
   "website": "https://goinstant.com",
