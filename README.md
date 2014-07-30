@@ -2,4 +2,4 @@
 
 Sample application structure for use with goinstant-buildpack.
 
-[![Deploy on Heroku](https://s3.amazonaws.com/f.cl.ly/items/12030r0c0J3z123k442i/deploy-button.png)](https://clone.herokuapp.com)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
